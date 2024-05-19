@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZapPOS" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="android:statusBarColor">@color/silver</item>
+    </style>
+
+    <style name="Theme.ZapPOS" parent="Base.Theme.ZapPOS" />
+</resources>
